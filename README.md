@@ -182,3 +182,6 @@ LYF Mail
 
 
 > Signals is built for humans — and respectful to machines.
+
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
