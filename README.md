@@ -245,7 +245,7 @@ Signals is one of nine free, open-source privacy tools built by [LYF Mail](https
 
 | Project | Description | Live App | Repository |
 |---------|-------------|----------|------------|
-| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness. | [lyfmail.com](https://lyfmail.com) | `lyfmail-pwa` |
+| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness. | [lyfmail.com](https://lyfmail.com) | `lyfmail` |
 | **[TrustLens](https://trustlens.lyfmail.com)** | Detect misinformation before you share. Privacy-first credibility analysis. | [trustlens.lyfmail.com](https://trustlens.lyfmail.com) | `trustlens` |
 | **[Ebb](https://ebb.lyfmail.com)** | Period tracker with homomorphic encryption. Your data stays encrypted — even from us. | [ebb.lyfmail.com](https://ebb.lyfmail.com) | `ebb` |
 | **[LYF SOS](https://lyfsos.lyfmail.com)** | Offline emergency safety app for Android. Built for Indian families. | [lyfsos.lyfmail.com](https://lyfsos.lyfmail.com) | `lyfsos` |
