@@ -21,10 +21,10 @@ Built by [LYF Mail](https://lyfmail.com), a [privacy-first digital wellness plat
 
 | Issue | Impact | How Signals Helps |
 |-------|--------|-----------------|
-| 🤖 **Bots & AI scrapers** inflate metrics | 40-60% of web traffic is automated | Server-side filtering + behavioral scoring |
-| 📉 **Human engagement buried** under fake data | Misleading ROI, wasted ad spend | Human-only analytics dashboard |
-| 🔒 **Privacy laws** (GDPR, CCPA) restrict tracking | Complex consent banners, legal risk | Zero personal data collection |
-| ⚠️ **Fingerprinting & cookies** erode trust | User backlash, browser blocking | Behavior-based, not identity-based |
+| 🤖 **Bots & AI scrapers** inflate metrics | 40-60% of web traffic is automated | Server-side filtering + behavioral scoring. |
+| 📉 **Human engagement buried** under fake data | Misleading ROI, wasted ad spend | Human-only analytics dashboard. |
+| 🔒 **Privacy laws** (GDPR, CCPA) restrict tracking | Complex consent banners, legal risk | Zero personal data collection. |
+| ⚠️ **Fingerprinting & cookies** erode trust | User backlash, browser blocking | Behavior-based, not identity-based. |
 
 ---
 
@@ -170,10 +170,10 @@ Signals is designed to align with global privacy standards:
 
 | Regulation | Compliance Status |
 |------------|-------------------|
-| **GDPR (EU)** | ✅ Compliant — no personal data, no consent required |
-| **CCPA (California)** | ✅ Compliant — no sale of data (no data collected) |
-| **ePrivacy Directive** | ✅ Compliant — no tracking cookies |
-| **India DPDP Act** | ✅ Compliant — privacy by design |
+| **GDPR (EU)** | ✅ Compliant — no personal data, no consent required. |
+| **CCPA (California)** | ✅ Compliant — no sale of data (no data collected). |
+| **ePrivacy Directive** | ✅ Compliant — no tracking cookies. |
+| **India DPDP Act** | ✅ Compliant — privacy by design. |
 
 📄 Read our full privacy documentation: [`docs/PRIVACY.md`](docs/PRIVACY.md)
 
@@ -184,10 +184,10 @@ Signals is designed to align with global privacy standards:
 **Signals classifies, it does not block.** We believe in transparency over enforcement.
 
 Signals is **not a replacement for**:
-- Firewalls (WAF, Cloudflare Firewall)
-- Rate limiters
-- CAPTCHA systems
-- Bot management platforms
+- Firewalls (WAF, Cloudflare Firewall).
+- Rate limiters.
+- CAPTCHA systems.
+- Bot management platforms.
 
 Instead, Signals **complements** these tools by providing accurate human traffic intelligence that helps you make informed decisions.
 
@@ -245,7 +245,7 @@ Signals is one of nine free, open-source privacy tools built by [LYF Mail](https
 
 | Project | Description | Live App | Repository |
 |---------|-------------|----------|------------|
-| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness | [lyfmail.com](https://lyfmail.com) | `lyfmail-pwa` |
+| **[LYF Mail](https://lyfmail.com)** | Privacy-first newsletters for health, wealth, career & mindfulness. | [lyfmail.com](https://lyfmail.com) | `lyfmail-pwa` |
 | **[TrustLens](https://trustlens.lyfmail.com)** | Detect misinformation before you share. Privacy-first credibility analysis. | [trustlens.lyfmail.com](https://trustlens.lyfmail.com) | `trustlens` |
 | **[Ebb](https://ebb.lyfmail.com)** | Period tracker with homomorphic encryption. Your data stays encrypted — even from us. | [ebb.lyfmail.com](https://ebb.lyfmail.com) | `ebb` |
 | **[LYF SOS](https://lyfsos.lyfmail.com)** | Offline emergency safety app for Android. Built for Indian families. | [lyfsos.lyfmail.com](https://lyfsos.lyfmail.com) | `lyfsos` |
