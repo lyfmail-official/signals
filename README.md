@@ -21,10 +21,10 @@ Built by [LYF Mail](https://lyfmail.com), a [privacy-first digital wellness plat
 
 | Issue | Impact | How Signals Helps |
 |-------|--------|-----------------|
-| 🤖 **Bots & AI scrapers** inflate metrics | 40-60% of web traffic is automated | Server-side filtering + behavioral scoring. |
-| 📉 **Human engagement buried** under fake data | Misleading ROI, wasted ad spend | Human-only analytics dashboard. |
-| 🔒 **Privacy laws** (GDPR, CCPA) restrict tracking | Complex consent banners, legal risk | Zero personal data collection. |
-| ⚠️ **Fingerprinting & cookies** erode trust | User backlash, browser blocking | Behavior-based, not identity-based. |
+| 🤖 **Bots & AI scrapers** inflate metrics. | 40-60% of web traffic is automated. | Server-side filtering + behavioral scoring. |
+| 📉 **Human engagement buried** under fake data. | Misleading ROI, wasted ad spend. | Human-only analytics dashboard. |
+| 🔒 **Privacy laws** (GDPR, CCPA) restrict tracking. | Complex consent banners, legal risk. | Zero personal data collection. |
+| ⚠️ **Fingerprinting & cookies** erode trust. | User backlash, browser blocking. | Behavior-based, not identity-based. |
 
 ---
 
@@ -317,4 +317,3 @@ A: Signals uses a confidence-based model, not binary judgment. While no system i
 ---
 
 *This README is maintained by the LYF Mail team. For issues, feature requests, or contributions, please visit our [GitHub repository](https://github.com/lyfmail-official/signals).*
-```
